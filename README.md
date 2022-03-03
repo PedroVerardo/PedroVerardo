@@ -1,4 +1,4 @@
-### Hello I'm Pedro Lopes, currently, I course computer science in the college
+### Hello I'm Pedro Lopes, currently, I course computer science in college
 
 
 <div align="center">
